@@ -1,10 +1,10 @@
 {
-    "author": "Developers <developers@didit.com>"
+    "author": "Didit Tech <developers@didit.com>"
   , "name": "selenium"
   , "description": "Selenium in an npm package"
   , "version": "2.0.0"
-  , "homepage": "http://seleniumhq.org/"
-  , "repository": { "url": "" }
+  , "homepage": "http://github.com/didit-tech/NPM-Selenium"
+  , "repository": { "type": "git", "url": "git://github.com/didit-tech/NPM-Selenium.git" }
   , "engines": { "node": "0.4.x" }
   , "keywords": ["bdd", "tdd", "selenium"]
   , "bin": { "selenium": "./bin/selenium" }
